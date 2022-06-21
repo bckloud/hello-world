@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps Learning</h1>
+    <h1>New user Register for DevOps Learningand teaching</h1>
     <p>my new container is on the way</p>
     <hr>
      
@@ -12,7 +12,7 @@
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
-    <label for="email dal"><b>Enter ur Email</b></label>
+    <label for="email dal"><b>Enter ur and her mail ail</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
