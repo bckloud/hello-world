@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> earning and enjoy </h1>
+   <h1>moti earning and enjoy </h1>
 
   
 </form>
