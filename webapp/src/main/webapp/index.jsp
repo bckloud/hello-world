@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1>anksible earning and enjoy </h1>
+   <h1>anksible i did it  earning and enjoy </h1>
 
   
 </form>
